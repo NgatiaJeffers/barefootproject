@@ -55,7 +55,7 @@ width: 21%;
 .hero-section{
     height: 80vh;
     width: 100%;
-    background-image: url('/images/backgroundimage.png');
+    background-image: url('https://msgroup2.github.io/barefootproject/images/backgroundimage.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
