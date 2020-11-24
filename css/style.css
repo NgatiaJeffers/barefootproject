@@ -4,10 +4,48 @@
     box-sizing: border-box;
 }
 
-a{
-    text-decoration: none;
+
+
+.navbar {
+    width: 100vw;
+    height: 12vh;
+    position: fixed;
+    background-color: white;
+
 }
 
-ul, ol, li{
+
+
+.navbar ul li {
     list-style-type: none;
+    display: inline-block;
+    transition: 0.7s all;
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    padding: .5em;
+
+}
+
+.nav-item {
+    margin-left: 3em;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: #3F3D56;
+}
+
+.navbar ul li a:hover {
+    transition: 0.7s ease-in-out;
+    border: 2px solid #081839;
+    border-radius: 5px;
+}
+
+/* ============= BANNER ================ */
+
+.banner-area {
+	background-image: url('/img/banner.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
