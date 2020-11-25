@@ -151,3 +151,50 @@ header {
     font-family: "Poppins", sans-serif;
     font-size: 15px;
 }
+
+.pledge {
+    height: 185px;
+    background-color: #E5E5E5;
+}
+
+.pledge h1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 29px;
+    display: grid;
+    margin-left: 5em;
+    padding-top: 1em;
+}
+
+.pledge h2 {
+    font-family: "Poppins", sans-serif;
+    font-size: 17px;
+    color: #DBC48E;
+    display: grid;
+    float: left;
+    padding-top: 1em;
+    margin-left: 8em;
+}
+
+.pledge h3 {
+    font-family: "Lora", sans-serif;
+    font-size: 21px;
+    display: grid;
+    padding-top: 2em;
+    float: left;
+    margin-left: -10em;
+}
+
+.pledge button {
+    height: 55px;
+    width: 160px;
+    background-color: #080839;
+    color: white;
+    float: right;
+}
+
+.btn:hover {
+    background-color: #E5E5E5;
+    border: 2px solid #080839;
+    color: #080839;
+    transition: 0.2s ease-in;
+}
