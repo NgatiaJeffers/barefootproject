@@ -163,7 +163,7 @@ header {
     font-family: "Poppins", sans-serif;
     font-size: 29px;
     display: grid;
-    margin-left: 5em;
+    margin-left: 5.6em;
     padding-top: 1em;
 }
 
@@ -174,7 +174,7 @@ header {
     display: grid;
     float: left;
     padding-top: 1em;
-    margin-left: 8em;
+    margin-left: 9em;
 }
 
 .pledge h3 {
@@ -183,7 +183,7 @@ header {
     display: grid;
     padding-top: 2em;
     float: left;
-    margin-left: -10em;
+    margin-left: -12em;
 }
 
 .pledge button {
@@ -192,6 +192,7 @@ header {
     background-color: #080839;
     color: white;
     float: right;
+    margin-right: 10em;
 }
 
 .btn:hover {
@@ -201,6 +202,54 @@ header {
     transition: 0.2s ease-in;
 }
 
+.page-footer {
+    background-color: #080839;
+    height: 270px;
+}
 
+.con img {
+    float: left;
+    margin-left: 10em;
+}
+
+
+.news p {
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    text-align: left;
+    color: white;
+}
+
+.news button {
+    margin-top: 1em;
+    color: #080839;
+    background-color: whitesmoke;
+    width: 150px;
+    height: 50px;
+    font-family: 15px;
+}
+
+.contact h5 {
+    text-align: right;
+    font-family: "Poppins", sans-serif;
+    color: whitesmoke;
+}
+
+.contact p {
+    font-family: "Poppins", sans-serif;
+    text-align: right;
+    color: whitesmoke;
+}
+
+.text-center {
+    text-align: center;
+    color: white;
+    margin-left: 10em;
+}
+
+strong {
+    text-decoration: none;
+    color: whitesmoke;
+}
 
 
