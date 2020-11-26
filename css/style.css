@@ -254,3 +254,24 @@ strong {
 }
 
 
+
+/* MEDIA QUERIES */
+
+/* @media (min-width: 576px) {
+    body, html {
+        margin:0;
+        padding: 0;
+        top: 0;
+    }
+    .vec img {
+        height: 600px;
+        width: 600px;
+    }
+
+    .vec1 img {
+        height: 600px;
+        width: 600px;
+        padding-right: 10em;
+    }
+} */
+
