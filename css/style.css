@@ -50,6 +50,7 @@
 /* ============= BANNER ================ */
 
 header {
+    position: relative;
 	background-image: url('/img/banner.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
